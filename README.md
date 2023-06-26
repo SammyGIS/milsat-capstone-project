@@ -36,7 +36,7 @@ Clone the repository: git clone https://github.com/SammyGIS/milsat-capstone-proj
 
 * Overall, the visualizations provide insights that can inform decision-making in terms of healthcare planning, resource allocation, and identifying underserved areas. They contribute to creating solutions and business intelligence that can enhance access to quality healthcare services and address the healthcare challenges faced in Borno State.
 
-## Link to Dashbpard
+## Link to Dashboard
 https://www.arcgis.com/apps/dashboards/95342543f17e4cf3b0b22a7e9d6e94f2
 
 NOTE: For the complete document containing all the visualizations and their interpretations, please referer to the Report.
